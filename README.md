@@ -1,16 +1,17 @@
-### Hi there 👋
+## Português
+Olá! Me chamo Emanuel Duarte 👋<br>
 
-<!--
-**Manudrel/Manudrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação. Resido no Rio de Janeiro e sou estudante do Bacharelado em Sistemas de Informação da CEFET-RJ.<br>
 
-Here are some ideas to get you started:
+🔮 Atualmente estou aprendendo Python e Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## English
+Hello! I'm Emanuel Duarte 👋<br>
+
+I'm a programming student. I live in Rio de Janeiro and I'm a Bachelor's student in Information Systems at CEFET-RJ.<br>
+
+🔮 I’m currently learning Python and Java.
+
+## Github
+![Emanuel Duarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=shades-of-purple)
