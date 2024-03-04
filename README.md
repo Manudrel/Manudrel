@@ -1,3 +1,4 @@
+## Hi 👋, I'm Emanuel!!
 ## Português
 Olá! Me chamo Emanuel Duarte 👋<br>
 
@@ -15,3 +16,5 @@ I'm a programming student. I live in Rio de Janeiro and I'm a Bachelor's student
 
 ## Github
 ![Emanuel Duarte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=shades-of-purple)
+
+
