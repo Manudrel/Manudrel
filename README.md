@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 Olá! Meu nome é **Emanuel Duarte**.  
-🎓 Estudante de **Sistemas de Informação** na **CEFE-RJ**.  
+🎓 Estudante de **Sistemas de Informação** na **CEFET-RJ**.  
 💡 Apaixonado por tecnologia, desenvolvimento de software e tudo que envolve resolver problemas com código.
 
 Atualmente aprendendo e desenvolvendo projetos em:
