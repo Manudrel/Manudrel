@@ -14,35 +14,33 @@ Atualmente aprendendo e desenvolvendo projetos em:
 
 ## 🛠️ Skills & Tools
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br/>
-      <b>Python</b>
-    </td>
-      <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br/>
-      <b>Java</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
-      <b>Git</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br/>
-      <b>GitHub</b>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/><br/>
-      <b>VSCode</b>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height="50" alt="Google Colab"/><br/>
-      <b>Google Colab</b>
-    </td>
-  </tr>
-</table>
+<p align="center" style="margin: 0; padding: 0;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Google Colab" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  </a>
+</p>
 
+<style>
+  a:hover img {
+    transform: scale(1.1);
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.15)) !important;
+  }
+</style>
 
 
 ---
