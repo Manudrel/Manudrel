@@ -14,44 +14,13 @@ Atualmente aprendendo e desenvolvendo projetos em:
 
 ## 🛠️ Skills & Tools
 
-<p align="center" style="margin: 0; padding: 0; line-height: 0;">
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
-  </a>
-  
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
-  </a>
-  
-  <!-- Google Colab -->
-  <a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Google Colab" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
-  </a>
-  
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
-  </a>
-  
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
-  </a>
-  
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
-  </a>
-</p>
-
-<style>
-  a:hover img {
-    transform: scale(1.1);
-    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.15)) !important;
-  }
-</style>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
 
 ---
 
