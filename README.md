@@ -14,24 +14,35 @@ Atualmente aprendendo e desenvolvendo projetos em:
 
 ## 🛠️ Skills & Tools
 
-<p align="center" style="margin: 0; padding: 0;">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+<p align="center" style="margin: 0; padding: 0; line-height: 0;">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
   </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  
+  <!-- Google Colab -->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Google Colab" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
   </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
   </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; text-decoration: none; outline: none; transition: transform 0.3s ease;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" height="48" alt="Google Colab" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease;" />
+  
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin: 0 12px; text-decoration: none; outline: none !important; border: none !important;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="vertical-align: middle; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1)); transition: all 0.3s ease; display: block;"/>
   </a>
 </p>
 
@@ -41,7 +52,6 @@ Atualmente aprendendo e desenvolvendo projetos em:
     filter: drop-shadow(0 4px 8px rgba(0,0,0,0.15)) !important;
   }
 </style>
-
 
 ---
 
