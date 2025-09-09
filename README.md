@@ -12,7 +12,6 @@ Atualmente aprendendo e desenvolvendo projetos em:
 
 - Java ☕
 - Python 🐍
----
 
 ## 🛠️ Skills & Tools
 <p align="center">
@@ -21,7 +20,6 @@ Atualmente aprendendo e desenvolvendo projetos em:
   </a>
 </p>
 
----
 
 ## 📫 How to reach me
 
@@ -37,15 +35,12 @@ Atualmente aprendendo e desenvolvendo projetos em:
   </a>
 </p>
 
----
 
 <div align="center">
   <a href="https://github.com/Manudrel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manudrel/Manudrel/output/github-contribution-grid-snake-dark.svg">
