@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Full+Stack+Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub+!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Full+Stack+Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub+Labs!🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <sub>Full Stack Developer · Machine Learning · Deep Learning · Information Systems</sub>
+  <sub><span style="color:#800080;">Full Stack Developer · Machine Learning · Deep Learning · Information Systems</span></sub>
 </p>
-
-
 
 ---
 
