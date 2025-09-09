@@ -1,6 +1,14 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Full+Stack+Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub+!🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <sub>Full Stack Developer · Machine Learning · Deep Learning · Information Systems</sub>
+</p>
 
 
-<h1 align="center">Hi there 👋, Welcome to my GitHub!</h1>
+
+---
 
 ## 👨‍💻 About Me
 
