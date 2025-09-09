@@ -16,7 +16,7 @@ Atualmente aprendendo e desenvolvendo projetos em:
 
 ## 🛠️ Skills & Tools
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Manudrel">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,opencv,sklearn,git,github,notion,mysql,django,postgres,mongodb,selenium,linux,anaconda,vscode,tensorflow,pytorch&perline=11" />
   </a>
 </p>
@@ -25,18 +25,19 @@ Atualmente aprendendo e desenvolvendo projetos em:
 
 ## 📫 How to reach me
 
-- LinkedIn: [](www.linkedin.com/in/emanuel-d-s-almeida)
-www.linkedin.com/in/emanuel-d-s-almeida
-- Mail: [](duarteemanuelsimoes@gmail.com)
-duarteemanuelsimoes@gmail.com
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/emanuel-d-s-almeida" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:duarteemanuelsimoes@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
 ---
-
-## ⚡ Fun Facts
-
-- 👾 Amo aprender coisas novas e participar de projetos desafiadores!
-- 🎮 No tempo livre, gosto de explorar novas tecnologias.
-- 📚 Sempre buscando aprender mais e crescer como desenvolvedor.
-
 
 <div align="center">
   <a href="https://github.com/Manudrel">
