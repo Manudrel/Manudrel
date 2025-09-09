@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi there 👋, Welcome to my GitHub!</h1>
 
 ## 👨‍💻 About Me
@@ -13,14 +15,11 @@ Atualmente aprendendo e desenvolvendo projetos em:
 ---
 
 ## 🛠️ Skills & Tools
-
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,opencv,sklearn,git,github,notion,mysql,django,postgres,mongodb,selenium,linux,anaconda,vscode,tensorflow,pytorch&perline=11" />
+  </a>
+</p>
 
 ---
 
@@ -37,3 +36,10 @@ duarteemanuelsimoes@gmail.com
 - 👾 Amo aprender coisas novas e participar de projetos desafiadores!
 - 🎮 No tempo livre, gosto de explorar novas tecnologias.
 - 📚 Sempre buscando aprender mais e crescer como desenvolvedor.
+
+
+<div align="center">
+  <a href="https://github.com/Manudrel">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
