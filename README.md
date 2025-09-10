@@ -45,7 +45,7 @@ Atualmente aprendendo e desenvolvendo projetos em:
 <div align="center">
   <a href="https://github.com/Manudrel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manudrel&layout=compact&theme=midnight-purple"/>
+    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manudrel&layout=compact&theme=midnight-purple&hide=jupyter%20notebook"/>
   </a>
 </div>
 
