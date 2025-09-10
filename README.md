@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=800080&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Full+Stack+Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub+Labs!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Full+Stack+Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub+Labs!🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <sub><span style="color:#800080;">Full Stack Developer · Machine Learning · Deep Learning · Information Systems</span></sub>
+  <sub><span style="color:#9370DB;">Full Stack Developer · Machine Learning · Deep Learning · Information Systems</span></sub>
 </p>
 
 ---
@@ -20,6 +20,7 @@ Atualmente aprendendo e desenvolvendo projetos em:
 - Python 🐍
 
 ## 🛠️ Skills & Tools
+
 <p align="center">
   <a href="https://github.com/Manudrel">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,opencv,sklearn,git,github,notion,mysql,django,postgres,mongodb,selenium,linux,anaconda,vscode,tensorflow,pytorch&perline=11" />
@@ -43,7 +44,7 @@ Atualmente aprendendo e desenvolvendo projetos em:
 
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -54,7 +55,6 @@ Atualmente aprendendo e desenvolvendo projetos em:
     </tr>
   </table>
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manudrel/Manudrel/output/github-contribution-grid-snake-dark.svg">
