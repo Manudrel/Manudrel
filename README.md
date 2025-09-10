@@ -25,7 +25,10 @@ Currently learning and developing projects with:
 - Machine Learning ⚡
   
 
-## 🛠️ Skills & Tools
+<p align="center">
+  <img src="./assets/skill-and-tools.svg" alt="Skill & Tools" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/Manudrel">
