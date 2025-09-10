@@ -1,23 +1,27 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Full+Stack+Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub+Labs!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub!🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <sub><span style="color:#9370DB;">Full Stack Developer · Machine Learning · Deep Learning · Information Systems</span></sub>
+  <sub><span style="color:#9370DB;">Developer · Machine Learning · Deep Learning · Information Systems</span></sub>
 </p>
 
 ---
+<p align="left">
+  <!-- Título roxo -->
+  <img src="https://img.shields.io/badge/About%20Me-A020F0?style=for-the-badge&logoColor=white" alt="About Me"/>
+</p>
 
-## 👨‍💻 About Me
+Hello! My name is **Emanuel Duarte**.  
+🎓 **Information Systems** student at **CEFET-RJ**.  
+💡 Passionate about technology, software development, and everything that involves solving problems with code.
 
-Olá! Meu nome é **Emanuel Duarte**.  
-🎓 Estudante de **Sistemas de Informação** na **CEFET-RJ**.  
-💡 Apaixonado por tecnologia, desenvolvimento de software e tudo que envolve resolver problemas com código.
 
-Atualmente aprendendo e desenvolvendo projetos em:
+Currently learning and developing projects with:
 
 - Java ☕
 - Python 🐍
+- Machine Learning ⚡
 
 ## 🛠️ Skills & Tools
 
