@@ -26,18 +26,18 @@ Currently learning and developing projects with:
   
 
 <p align="center">
-  <img src="./assets/skill-and-tools.svg" alt="Skill & Tools" />
+  <img src="./assets/skills.svg" alt="Skills & Tools"/>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/Manudrel">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,opencv,sklearn,git,github,notion,mysql,django,postgres,mongodb,selenium,linux,anaconda,vscode,tensorflow,pytorch&perline=11" />
   </a>
 </p>
-
-
-## 📫 How to reach me
+<br><br>
+<p align="center">
+  <img src="./assets/contact.svg" alt="How to reach me"/>
+</p>
 
 <p align="center">
   <!-- LinkedIn -->
@@ -50,7 +50,7 @@ Currently learning and developing projects with:
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
+<br><br>
 
 <div align="center">
   <table border="0">
