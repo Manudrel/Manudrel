@@ -7,10 +7,11 @@
 </p>
 
 ---
-<p align="left">
-  <!-- Título roxo -->
-  <img src="https://img.shields.io/badge/About%20Me-A020F0?style=for-the-badge&logoColor=white" alt="About Me"/>
+
+<p align="center">
+  <img src="./assets/about-me.svg" alt="About Me" />
 </p>
+
 
 Hello! My name is **Emanuel Duarte**.  
 🎓 **Information Systems** student at **CEFET-RJ**.  
@@ -22,6 +23,7 @@ Currently learning and developing projects with:
 - Java ☕
 - Python 🐍
 - Machine Learning ⚡
+  
 
 ## 🛠️ Skills & Tools
 
