@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/about-me.svg" alt="About Me" />
+  <img src="./assets/about-me2.svg" alt="About Me" />
 </p>
 
 
@@ -26,7 +26,7 @@ Currently learning and developing projects with:
   
 
 <p align="center">
-  <img src="./assets/skills.svg" alt="Skills & Tools"/>
+  <img src="./assets/skills2.svg" alt="Skills & Tools"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ Currently learning and developing projects with:
 </p>
 <br><br>
 <p align="center">
-  <img src="./assets/contact.svg" alt="How to reach me"/>
+  <img src="./assets/contact2.svg" alt="How to reach me"/>
 </p>
 
 <p align="center">
