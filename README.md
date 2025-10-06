@@ -52,18 +52,10 @@ Currently learning and developing projects with:
 </p>
 <br><br>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manudrel&layout=compact&theme=midnight-purple&hide=jupyter%20notebook"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manudrel&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manudrel/Manudrel/output/github-contribution-grid-snake-dark.svg">
