@@ -1,22 +1,16 @@
 <p align="center">
+  <img src="./assets/jojo.gif" alt="Purple JoJo ASCII — cyber style" width="15%" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub!🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <sub><span style="color:#9370DB;">Developer · Machine Learning · Deep Learning · Information Systems</span></sub>
 </p>
-
----
-
-<p align="center">
-  <img src="./assets/about-me2.svg" alt="About Me" />
-</p>
-
-
-<p align="center">
-  <img src="./assets/jojo-cyberpunk.svg" alt="Purple JoJo ASCII — cyber style" width="100%" />
-</p>
-
 
 ### 💜 About Me — *AI Engineering Arc*
 
@@ -28,6 +22,10 @@ My work and projects explore **LLM-powered applications, AI agents, RAG architec
   <img src="https://img.shields.io/badge/AI_AGENTS-4C167A?style=for-the-badge&logoColor=E9D5FF" alt="AI Agents" />
   <img src="https://img.shields.io/badge/RAG-4C167A?style=for-the-badge&logoColor=E9D5FF" alt="RAG" />
   <img src="https://img.shields.io/badge/MULTI--AGENT_SYSTEMS-4C167A?style=for-the-badge&logoColor=E9D5FF" alt="Multi-agent Systems" />
+</p>
+
+<p align="center">
+  <img src="./assets/jojo-cyberpunk.svg" alt="Purple JoJo ASCII — cyber style" width="100%" />
 </p>
 
 ---
