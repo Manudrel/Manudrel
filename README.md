@@ -1,18 +1,14 @@
 <p align="center">
-  <img src="./assets/jojo.gif" alt="Purple JoJo ASCII — cyber style" width="15%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Emanuel+Duarte;Information+Systems+Student+at+CEFET-RJ;Developer;Applied+AI+Developer+(ML+%26+DL);Welcome+to+my+GitHub!🚀" alt="Typing SVG" />
+  <img src="./assets/jojo.gif" alt="Purple JoJo ASCII — cyber style" width="10%" />
 </p>
 
 <p align="center">
-  <sub><span style="color:#9370DB;">Developer · Machine Learning · Deep Learning · Information Systems</span></sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Emanuel+Duarte;AI+Engineering" alt="Emanuel Duarte — AI Engineering" />
 </p>
 
-### 💜 About Me — *AI Engineering Arc*
+<p align="center">
+  <img src="./assets/about-me2.svg" alt="About Me — AI Engineering Arc" />
+</p>
 
 I'm **Emanuel Duarte**, an **AI Engineering Intern at IPNET by Vivo** and **Information Systems student at CEFET-RJ**.
 
@@ -34,10 +30,8 @@ My work and projects explore **LLM-powered applications, AI agents, RAG architec
   <img src="./assets/skills2.svg" alt="Skills & Tools"/>
 </p>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Applied_in_Projects-2E1A47?style=for-the-badge&logoColor=C4B5FD" alt="Applied in Projects" />
-  <img src="https://img.shields.io/badge/Studied_%26_Explored-5B3A83?style=for-the-badge&logoColor=C4B5FD" alt="Studied &amp; Explored" />
+  <sub>Dark purple: applied in projects · Light purple: studied &amp; explored</sub>
 </p>
 
 ### 🤖 AI Agents & LLM Engineering
@@ -116,6 +110,9 @@ My work and projects explore **LLM-powered applications, AI agents, RAG architec
   <img src="https://img.shields.io/badge/Streamlit-2E1A47?style=for-the-badge&logo=streamlit&logoColor=C4B5FD" alt="Streamlit" />
 </p>
 
+<details>
+<summary><strong>More technologies</strong></summary>
+
 ### ⚙️ Additional Frameworks & Libraries
 
 <p align="center">
@@ -158,6 +155,8 @@ My work and projects explore **LLM-powered applications, AI agents, RAG architec
   <img src="https://img.shields.io/badge/Notion-2E1A47?style=for-the-badge&logo=notion&logoColor=C4B5FD" alt="Notion" />
   <img src="https://img.shields.io/badge/Anaconda-2E1A47?style=for-the-badge&logo=anaconda&logoColor=C4B5FD" alt="Anaconda" />
 </p>
+
+</details>
 
 <br>
 
