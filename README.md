@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/jojo.gif" alt="Purple JoJo ASCII — cyber style" width="5%" />
+  <img src="./assets/jojo.gif" alt="Purple JoJo ASCII — cyber style" width="7%" />
 </p>
 
 <p align="center">
