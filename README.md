@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=800&lines=Emanuel+Duarte;AI+Engineering" alt="Emanuel Duarte — AI Engineering" />
 </p>
 
+--- 
+
 <p align="center">
   <img src="./assets/about-me2.svg" alt="About Me — AI Engineering Arc" />
 </p>
